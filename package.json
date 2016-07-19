@@ -33,12 +33,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lmtm/copycast.git"
+    "url": "git+https://github.com/byteclubfr/copycast.git"
   },
   "bugs": {
-    "url": "https://github.com/lmtm/copycast/issues"
+    "url": "https://github.com/byteclubfr/copycast/issues"
   },
-  "homepage": "https://github.com/lmtm/copycast#readme",
+  "homepage": "https://github.com/byteclubfr/copycast#readme",
   "author": "Delapouite <delapouite@gmail.com> (http://delapouite.com)",
   "license": "ISC",
   "dependencies": {
